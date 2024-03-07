@@ -1,7 +1,7 @@
-#include <iostream> //add picking of symbols, letters
-#include <random> //add saved on txt file
-#include <algorithm> //add registration
-#include <chrono> //
+#include <iostream>
+#include <random>
+#include <algorithm>
+#include <chrono>
 
 int passwordGenerate(int lettersUpperLength, int lettersLowerLength, int numbersLength, int symbolLength) {
     std::string password;
