@@ -1,2 +1,2 @@
 # PasswordGenerator
-Simple pass generate(beta version)
+Simple pass generate
